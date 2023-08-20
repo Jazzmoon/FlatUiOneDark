@@ -2,7 +2,7 @@
   "name": "FlatUiOneDark",
   "displayName": "Flat UI & One Dark",
   "description": "A flat style theme for vscode with One Dark syntax highlighting. Based on the Flat UI theme for Atom.",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "publisher": "BowserV2",
   "license": "MIT",
   "engines": {
@@ -32,7 +32,7 @@
       {
         "label": "Flat UI & One Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/flatUiOneDark.json"
+        "path": "./themes/FlatUiOneDark.json"
       }
     ]
   }

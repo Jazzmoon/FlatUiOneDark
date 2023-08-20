@@ -8,6 +8,10 @@ A combination of the background colours of the Flat UI Dark theme and the Syntax
 
 ### Changelog
 
+#### 1.2.0
+>
+> Fixed file reference error.
+
 #### 1.1.0
 >
 > Added inlay hint colours
